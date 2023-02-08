@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">I am currently pursuing master of science in computer science at Santa Clara University and have a strong interest in building applications using cloud services. Always eager to collaborate on projects. Looking forward to connecting with you.</h3>
 
-- 🔭 I’m currently working on **an end to end ecommerce application.**
+<!-- - 🔭 I’m currently working on **an end to end ecommerce application.** -->
 
 - 🌱 I’m currently learning **Junit, swagger and production deployment using aws. **
 
