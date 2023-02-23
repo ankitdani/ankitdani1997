@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **an end to end ecommerce application.** -->
 
-- 🌱 I’m currently learning **Junit, swagger and production deployment using aws. **
+<!-- - 🌱 I’m currently learning **Junit, swagger and production deployment using aws. ** -->
 
 - 📫 How to reach me **ankitdani1997@gmail.com**
 
